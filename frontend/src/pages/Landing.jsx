@@ -54,7 +54,7 @@ export default function Landing() {
         <motion.h1 {...fadeUp(0.1)} className="text-5xl sm:text-7xl font-black tracking-tighter mb-6 leading-none">
           Find your perfect
           <br />
-          <span className="text-brand-400">cricket squad</span>
+          <span className="text-brand-400">Sport Mates</span>
         </motion.h1>
 
         <motion.p {...fadeUp(0.2)} className="text-lg text-slate-400 max-w-xl mx-auto mb-10 leading-relaxed">
